@@ -4,7 +4,7 @@ This project contains a short description about my developer profile
 ### Who is the author?
 I'm Federico Agustin Del Valle, the creator behind this project.
 ### Where can I see it working?
-You can download the project with this link: https://github.com/FedericoDelValle77/Federico_DelValle/tree/main
+You can download the project with this link: https://github.com/FedericoDelValle77/Federico_DelValle.git
 ### How does it work?
 To see how the project works, follow these steps:
 
